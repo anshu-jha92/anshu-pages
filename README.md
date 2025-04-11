@@ -1,4 +1,2 @@
-# anshu-pages
-This is my first git repository
-<br>
-Author-ANSHU JHA (AJ)
+This is my First Mini Project For Using HTML & CSS
+
